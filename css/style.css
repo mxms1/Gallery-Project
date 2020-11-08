@@ -1,0 +1,39 @@
+.searchinput{
+  margin-top: 40px;
+  width: 39%;
+  height: 40px;
+  border-radius: 7px;
+  border-color: rgba(211,211,211, 0.8);
+  border-style:solid;
+  padding: 9px;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+body{
+  text-align: center;
+}
+
+.container{
+
+  margin: 30px auto 70px auto;
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
+  grid-template-rows: repeat( auto-fit, minmax(250px, 1fr));
+  grid-row-gap: 20px;
+  grid-column-gap: 20px;
+  height: 100%;
+  max-width: 80%;
+
+
+}
+
+img{
+  width: 100%;
+
+
+
+
+
+
+}
