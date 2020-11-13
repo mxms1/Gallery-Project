@@ -1,4 +1,4 @@
-.searchinput{
+.search{
   margin-top: 40px;
   width: 39%;
   height: 40px;
@@ -30,10 +30,11 @@ body{
 
 img{
   width: 100%;
+  max-width: 270px;
+}
 
-
-
-
+.hide{
+  display: none;
 
 
 }
